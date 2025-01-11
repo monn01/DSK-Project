@@ -1,0 +1,2 @@
+# DSK-Project
+Tugas Akhir_DSKProject_WordCOunter_2400018119_Muhammad Dzaky Prayata_C
